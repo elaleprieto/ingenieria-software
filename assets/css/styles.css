@@ -230,6 +230,9 @@ li.flecha {
 	right: 10%;
 	position: absolute;
 }
+.cita{
+	text-align: right;
+}
 .header-cine{
 	width: 100%;
 }
@@ -243,6 +246,15 @@ li.flecha {
 	left: 0;
 	position: absolute;
 	top: 0;
+}
+.no-resaltado{
+	color: grey;
+	font-size: 0.9rem
+}
+.resaltado{
+	color: yellow;
+	font-weight: bold;
+	font-size: 1.1rem
 }
 .sin-techo-1{
 	position: absolute !important;
