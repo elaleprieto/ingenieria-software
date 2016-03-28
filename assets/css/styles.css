@@ -1,0 +1,271 @@
+.copyright {
+	display:none;
+}
+img.flecha {
+	width:1em;
+}
+li.flecha {
+	height:36px;
+}
+.background-radar-admin{
+	background:url('../image/admin-r.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-colectivo{
+	background:url('../image/colectivo.jpg') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-jcl-1{
+	background:url('../image/jcl-1.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-jcl-3{
+	background:url('../image/jcl-3.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-python{
+	background:url('../image/python-code.png') no-repeat;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-ushahidi{
+	background:url('../image/ushahidi-1.jpg') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-monty{
+	background:url('../image/monty-phyton-0.jpg');
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-radar-funcionando{
+	background:url('../image/radar_console.jpg') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-cineclub{
+	background:url('../image/cine-america-3.jpg');
+	height: 100%;
+	position: absolute;
+	width: 100%;
+}
+.background-cine{
+	background:url('../image/cine-america-4.jpg') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-principal{
+	background:url('../image/fondo1024x768_2.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute !important;
+	width: 100% !important;
+}
+.background-radar-eventos-1{
+	background:url('../image/eventos-listado-1.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-radar-eventos-2{
+	background:url('../image/evento-view-detallado-r.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-radar-evento-add{
+	background:url('../image/evento-add-r.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-radar-espacios-1{
+	background:url('../image/radar-espacios.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-radar-espacios-2{
+	background:url('../image/radar-espacios-add.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	width: 100% !important;
+}
+.background-radar-espacios-view{
+		background:url('../image/espacio-view-r.png') no-repeat;
+		background-size: 100%;
+		height: 100%;
+		left: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		position: absolute;
+		width: 100% !important;
+}
+.background-radar-login{
+		background:url('../image/login-r.png') no-repeat;
+		background-size: 100%;
+		height: 100%;
+		left: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		position: absolute;
+		width: 100% !important;
+}
+.background-radar-registro{
+		background:url('../image/radar-registro-rr.png') no-repeat;
+		background-size: 100%;
+		height: 100%;
+		left: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		position: absolute;
+		width: 100% !important;
+}
+.background-radar-usuarios{
+		background:url('../image/usuarios-listado-r.png') no-repeat;
+		background-size: 100%;
+		height: 100%;
+		left: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		position: absolute;
+		width: 100% !important;
+}
+.background-teatro{
+		background:url('../image/teatro-1.jpg') no-repeat;
+		background-size: 100%;
+		height: 100%;
+		left: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		position: absolute;
+		width: 100% !important;
+}
+.inapiwetrust{
+	background:url('../image/inapiwetrust-2.png') no-repeat;
+	background-size: 100%;
+	height: 100%;
+	left: 0 !important;
+	margin-left: 0 !important;
+	margin-top: 0 !important;
+	position: absolute;
+	height: 100%;
+}
+.block-radar{
+	background-color: rgba(0, 0, 0, 0.4);
+	font-size: 1em;
+	quotes: none;
+}
+.colectivo{
+	right: 10%;
+	position: absolute;
+}
+.header-cine{
+	width: 100%;
+}
+
+.lateral-derecha{
+	right: 0;
+	position: absolute;
+	top: 0;
+}
+.lateral-izquierda{
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+.sin-techo-1{
+	position: absolute !important;
+	right: 10% !important;
+	top: 10% !important;
+}
+.sin-techo-2{
+	position: absolute !important;
+	right: 5% !important;
+	top: 20% !important;
+}
+.sin-techo-3{
+	position: absolute !important;
+	right: 10% !important;
+	top: 30% !important;
+}
+.sin-techo-4{
+	position: absolute !important;
+	right: 5% !important;
+	top: 40% !important;
+}
+.sin-techo-5{
+	position: absolute !important;
+	right: -5% !important;
+	top: 50% !important;
+}
