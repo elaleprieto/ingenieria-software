@@ -94,6 +94,27 @@
 						<h4><mark>¿quién lo hace?</mark></h4>
 					</header>
 					<div>
+						<p>
+							No hay nada permanente, excepto el cambio.
+						</p>
+						<p class="cita">Heráclito, 500 a.C.</p>
+					</div>
+				</article>
+				<article>
+					<header class="box">
+						<h2>Gestión del Cambio</h2>
+						<h4><mark>¿quién lo hace?</mark></h4>
+					</header>
+					<div>
+						<p>
+							Todos los involucrados en el proceso de desarrollo de software se relacionan de alguna manera con la gestión del cambio.
+						</p>
+						<p>
+							En ocasiones se crean áreas específicas para administrar la gestión del cambio.
+							<br>
+							<span class="no-resaltado">(Gerencia de Configuración, 1984)</span>
+						</p>
+						</p>
 					</div>
 				</article>
 			</section>
@@ -106,6 +127,23 @@
 						<h4><mark>¿por qué es importante?</mark></h4>
 					</header>
 					<div>
+						<ul>
+							<li data-step="move alternate"><span class="resaltado">Si no se controla el cambio, éste lo controla a uno</span>. Y eso nunca es bueno.</li>
+							<li data-step="move alternate">Es muy fácil que <span class="subrayado">un flujo de cambios descontrolados convierta en caos</span> un proyecto de software bien estructurado. </li>
+							<li data-step="move">Como consecuencia, <span class="subrayado">la calidad del software se reduce</span> y <span class="subrayado">la entrega se demora</span>.</li>
+						</ul>
+					</div>
+				</article>
+				<article>
+					<header class="box">
+						<h2>Gestión del Cambio</h2>
+						<h4><mark>¿por qué es importante?</mark></h4>
+					</header>
+					<div>
+						<p><span class="resaltado">Puede reparar un pequeño/gran fallo.</span></p>
+						<ul>
+							<li data-step="move alternate"><span class="resaltado">Nos permite explorar nuevas formas de hacer lo mismo.</span></li>
+						</ul>
 					</div>
 				</article>
 			</section>
@@ -118,7 +156,46 @@
 						<h4><mark>¿cuáles son los pasos?</mark></h4>
 					</header>
 					<div>
+						<ul>
+							<li data-step="move alternate">Es un conjunto de actividades de seguimiento y control.</li>
+							<li data-step="move alternate">Inician cuando comienza un proyecto de ingeniería del software y terminan sólo cuando queda fuera de circulación.</li>
+							<li data-step="move alternate">A medida que se va construyendo el software debemos identificar de manera única los productos de trabajo.</li>
+							<li data-step="move alternate">Establecer mecanismos para el control de versión y de cambio.</li>
+							<li data-step="move alternate">Auditar el proceso para garantizar la calidad.</li>
+							<li data-step="move">Generar reportes para informar al equipo.</li>
+						</ul>
 					</div>
+				</article>
+				<article>
+					<header class="box">
+						<h2>Gestión del Cambio</h2>
+						<h4><mark>¿productos de trabajo?</mark></h4>
+					</header>
+					<div>
+						<p>
+							<img src="assets/image/productos-software.png" alt="">
+						</p>
+					</div>
+				</article>
+				<article>
+					<header class="box">
+						<h2>Gestión del Cambio</h2>
+						<h4><mark>¿cuáles son los pasos?</mark></h4>
+					</header>
+					<div>
+						<p>
+							<span class="resaltado">Gerente de Configuración</span> para garantizar que se sigan los procedimientos y políticas para <span class="subrayado">crear</span>, <span class="subrayado">cambiar</span> y <span class="subrayado">probar el código</span>, y mantener accesible la información acerca del proyecto. 
+						</p>
+						<p>
+							Este gerente introduce <span class="subrayado">mecanismos</span> para: <span class="subrayado">realizar peticiones oficiales de cambios</span>, <span class="subrayado">evaluarlos</span> (mediante un Consejo de Control de Cambios que sea responsable de aprobar los cambios al sistema de software) y <span class="subrayado">autorizarlos</span>. 
+						</p>
+						<p>
+							El gerente elabora y difunde la <span class="subrayado">lista de tareas</span> para los ingenieros.
+						</p>
+					</div>
+						<footer class="box white">
+            <p>Identificar el cambio, Implementar el cambio, Probar que el cambio se implementó de manera adecuada y Reportar el cambio a los interesados.</p>
+          </footer>
 				</article>
 			</section>
 			
@@ -130,6 +207,35 @@
 						<h4><mark>¿cuál es el producto final?</mark></h4>
 					</header>
 					<div>
+					<ul>
+						<li data-step="move alternate">
+						Todos los productos de trabajo creados en las fases de la ingeniería de software se vuelven parte de la configuración del software. 
+						</li>
+						<li data-step="move alternate">
+						Debemos organizar la configuración de manera que permita el control ordenado del cambio.
+						</li>
+						<li data-step="move alternate">
+						La configuración del software se compone de un conjunto de objetos interrelacionados, también llamados ítems de configuración del software (ICS), que se producen como resultado de alguna actividad de ingeniería de software.
+						</li>
+						<li data-step="move alternate">
+						Además de documentos, programas y datos, el entorno de desarrollo que se usa para crear el software también puede colocarse bajo control de la configuración.
+						</li>
+						<li data-step="move alternate">
+						Todos los ICS se almacenan dentro de un repositorio que implementa un conjunto de mecanismos y estructuras de datos para asegurar la integridad de los datos, proporcionar apoyo de integración para otras herramientas de software (información de apoyo que comparte entre todos los miembros del equipo de software) e implementar funciones de apoyo al control de versiones y de cambios.
+						</li>
+						<li data-step="move alternate">
+						Una vez desarrollado y revisado el objeto de configuración, se convierte en línea de referencia o línea base. 
+						</li>
+						<li data-step="move alternate">
+						Los cambios a un objeto convertido en línea de referencia dan como resultado la creación de una nueva versión de dicho objeto. 
+						</li>
+						<li data-step="move alternate">
+						La evolución de un programa puede rastrearse al examinar la historia de revisión de todos los objetos de configuración. 
+						</li>
+						<li data-step="move alternate">
+						El control de versiones es el conjunto de procedimientos y herramientas que sirven para administrar el uso de dichos objetos.
+						</li>
+					</ul>
 					</div>
 				</article>
 			</section>
@@ -142,6 +248,13 @@
 						<h4><mark>¿cómo me aseguro de que lo hice bien?</mark></h4>
 					</header>
 					<div>
+						<ul>
+							<li data-step="move alternate">Cuando todo producto de trabajo pueda explicarse, rastrearse y controlarse,</li>
+							<li data-step="move alternate">cuando todo cambio pueda rastrearse y analizarse,</li>
+							<li data-step="move alternate">cuando todos los que deben saber acerca de un cambio están informados,</li>
+							<li data-step="move alternate">entonces...</li>
+							<li data-step="move"><span class="resaltado">La gestión del cambio se hizo correctamente <span class="emoticon">:)</span></span></li>
+						</ul>
 					</div>
 				</article>
 			</section>
