@@ -236,7 +236,9 @@ li.flecha {
 .header-cine{
 	width: 100%;
 }
-
+.emoticon{
+	font-family: Arial;
+}
 .lateral-derecha{
 	right: 0;
 	position: absolute;
@@ -280,4 +282,19 @@ li.flecha {
 	position: absolute !important;
 	right: -5% !important;
 	top: 50% !important;
+}
+.subrayado{
+	text-decoration: underline;
+}
+footer{
+	font-size: 0.9rem
+}
+li{
+	margin-bottom: 1.5rem;
+}
+/*ul [data-run="success"]:last-of-type{
+	color: yellow;
+}*/
+p{
+	margin-bottom: 1rem;
 }
