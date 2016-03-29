@@ -232,6 +232,7 @@ li.flecha {
 }
 .cita{
 	text-align: right;
+	margin-right: 1rem;
 }
 .header-cine{
 	width: 100%;
@@ -286,8 +287,12 @@ li.flecha {
 .subrayado{
 	text-decoration: underline;
 }
+h3.fin{
+	margin-top: 1rem;
+    padding: 0 2rem;
+}
 footer{
-	font-size: 0.9rem
+	font-size: 0.9rem;
 }
 li{
 	margin-bottom: 1.5rem;
