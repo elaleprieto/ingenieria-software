@@ -275,6 +275,9 @@ li.flecha {
 	font-weight: bold;
 	font-size: 1.1rem
 }
+.resistencia{
+	width: 50%;
+}
 .sin-techo-1{
 	position: absolute !important;
 	right: 10% !important;
